@@ -10,7 +10,7 @@ export default function Footer() {
                     <div className="lg:col-span-2">
                         <div className="mb-6">
                             <Image
-                                src="/logo-white.svg"
+                                src="/logo.png"
                                 alt="Lucas Sjögren Logo"
                                 width={240}
                                 height={70}
