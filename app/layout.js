@@ -8,7 +8,7 @@ import VisitorTracker from "./components/VisitorTracker";
 const dmSans = DM_Sans({ subsets: ["latin"], weight: ["400", "500", "600", "700"] });
 
 export const metadata = {
-  title: "Lucas Sjögren - Premium Web Design Services",
+  title: "Pauline Mattsson - Premium Web Design Services",
   description: "Professional web design services starting from $800. Transform your business with stunning, modern websites.",
   icons: {
     icon: '/favicon.png',
@@ -18,7 +18,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={dmSans.className}>
+      <body className={dmSans.className} suppressHydrationWarning>
         <VisitorTracker />
         <Header />
         <main className="min-h-screen pt-32 sm:pt-28">

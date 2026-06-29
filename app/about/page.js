@@ -1,8 +1,8 @@
 import Link from 'next/link';
 
 export const metadata = {
-    title: "About Us - Lucas Sjögren",
-    description: "Learn about Lucas Sjögren and our mission to deliver exceptional web design services.",
+    title: "About Us - Pauline Mattsson",
+    description: "Learn about Pauline Mattsson and our mission to deliver exceptional web design services.",
 };
 
 export default function AboutPage() {
@@ -27,7 +27,7 @@ export default function AboutPage() {
                         <h2 className="text-4xl font-bold mb-8 text-center">Our Story</h2>
                         <div className="prose prose-lg max-w-none text-gray-700 space-y-6">
                             <p className="text-xl leading-relaxed">
-                                <span className="font-bold gradient-text">Lucas Sjögren</span> started with one belief: your website should do real work for your business — not just exist online. We&apos;ve built our studio around that idea, creating websites that look stunning and are engineered to convert visitors into clients.
+                                <span className="font-bold gradient-text">Pauline Mattsson</span> started with one belief: your website should do real work for your business — not just exist online. We&apos;ve built our studio around that idea, creating websites that look stunning and are engineered to convert visitors into clients.
                             </p>
                             <p className="text-lg leading-relaxed">
                                 Every project we take on is treated like it&apos;s our own business on the line. We obsess over the details — the copy, the layout, the speed, the mobile experience — so you don&apos;t have to. Whether you&apos;re launching a new brand or refreshing an existing one, we bring the same energy and craftsmanship to every engagement.

@@ -11,15 +11,16 @@ export default function Footer() {
                         <div className="mb-6">
                             <Image
                                 src="/logo.png"
-                                alt="Lucas Sjögren Logo"
+                                alt="Pauline Mattsson Logo"
                                 width={240}
                                 height={70}
                                 className="h-16 w-auto"
+                                unoptimized
                             />
                         </div>
                         <div className="space-y-3 text-gray-300">
                             <p className="text-lg font-semibold text-white mb-4">BUSINESS AND CONTACT INFORMATION</p>
-                            <p className="font-medium text-white">LUCAS SJÖGREN</p>
+                            <p className="font-medium text-white">Pauline Mattsson</p>
                             <p>MAROUANN DOUMM</p>
                             <p className="flex items-center gap-2">
                                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -94,7 +95,7 @@ export default function Footer() {
 
                 {/* Bottom Bar */}
                 <div className="pt-8 border-t border-slate-800 text-center text-gray-400">
-                    <p>&copy; {new Date().getFullYear()} Lucas Sjögren. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Pauline Mattsson. All rights reserved.</p>
                 </div>
             </div>
         </footer>

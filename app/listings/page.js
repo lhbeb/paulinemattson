@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 export const metadata = {
-    title: "Web Design Services - Lucas Sjögren",
+    title: "Web Design Services - Pauline Mattsson",
     description: "Transparent web design packages with no hidden fees. Built for businesses that want results.",
 };
 

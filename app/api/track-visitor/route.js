@@ -178,7 +178,7 @@ export async function POST(request) {
         });
 
         const message = [
-            'New Visitor - Lucas Sjögren',
+            'New Visitor - Pauline Mattsson',
             '',
             `Time: ${now} (Morocco)`,
             `Domain: ${formatValue(domain)}`,

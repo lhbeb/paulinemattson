@@ -82,11 +82,11 @@ export default function Home() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-              Lucas Sjögren Digital Studio
-              <span className="gradient-text block mt-2">Elevating Digital Experiences for Ambitious Brands</span>
+              Pauline Mattsson
+              <span className="gradient-text block mt-2">Digital Studio</span>
             </h1>
             <p className="text-xl sm:text-2xl text-gray-600 mb-10 max-w-2xl mx-auto">
-              We engineer premium web experiences that blend striking design with technical excellence. Transform your digital presence with custom solutions starting at <span className="font-bold text-primary bg-secondary px-1.5 py-0.5 rounded">$650</span>.
+              We craft premium, high-performing websites for ambitious brands. Transform your digital presence with strategic design and technical excellence, starting at <span className="font-bold text-primary bg-secondary px-1.5 py-0.5 rounded">$650</span>.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Link
@@ -256,7 +256,7 @@ export default function Home() {
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl sm:text-5xl font-bold mb-4">Why Industry Leaders Partner with Lucas Sjögren</h2>
+            <h2 className="text-4xl sm:text-5xl font-bold mb-4">Why Industry Leaders Partner with Pauline Mattsson</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               We combine data-driven strategy with flawless execution to build digital platforms that drive real business results.
             </p>

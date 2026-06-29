@@ -1,5 +1,5 @@
 export const metadata = {
-    title: "Privacy Policy - Lucas Sjögren",
+    title: "Privacy Policy - Pauline Mattsson",
     description: "Learn how we protect your privacy and handle your data.",
 };
 
@@ -24,7 +24,7 @@ export default function PrivacyPage() {
                     <div className="max-w-4xl mx-auto bg-white rounded-2xl shadow-xl p-8 sm:p-12">
                         <div className="prose prose-lg max-w-none">
                             <p className="text-xl text-gray-700 mb-8">
-                                At Lucas Sjögren, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
+                                At Pauline Mattsson, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
                             </p>
 
                             <h2 className="text-3xl font-bold mt-12 mb-6">1. Information We Collect</h2>
@@ -133,8 +133,8 @@ export default function PrivacyPage() {
                                 If you have any questions about this Privacy Policy or our data practices, please contact us:
                             </p>
                             <div className="bg-slate-50 p-6 rounded-xl mt-4">
-                                <p className="text-gray-800 mb-2"><strong>Lucas Sjögren</strong></p>
-                                <p className="text-gray-700 mb-2">LucasSjogren.shop</p>
+                                <p className="text-gray-800 mb-2"><strong>Pauline Mattsson</strong></p>
+                                <p className="text-gray-700 mb-2">paulinemattsson.shop</p>
                                 <p className="text-gray-700 mb-2">Email: marouanndoumm12@outlook.com</p>
                                 <p className="text-gray-700 mb-2">Phone: +1 9129231747</p>
                                 <p className="text-gray-700">Address: 14 SECTEUR 01 KASBAB MEHDIA KENITRA 14020</p>

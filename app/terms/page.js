@@ -1,5 +1,5 @@
 export const metadata = {
-    title: "Terms of Service - Lucas Sjögren",
+    title: "Terms of Service - Pauline Mattsson",
     description: "Read our terms of service for web design services.",
 };
 
@@ -24,12 +24,12 @@ export default function TermsPage() {
                     <div className="max-w-4xl mx-auto bg-white rounded-2xl shadow-xl p-8 sm:p-12">
                         <div className="prose prose-lg max-w-none">
                             <p className="text-xl text-gray-700 mb-8">
-                                Welcome to Lucas Sjögren. By engaging our web design services, you agree to be bound by these Terms of Service.
+                                Welcome to Pauline Mattsson. By engaging our web design services, you agree to be bound by these Terms of Service.
                             </p>
 
                             <h2 className="text-3xl font-bold mt-12 mb-6">1. Services</h2>
                             <p className="text-gray-700 mb-6">
-                                Lucas Sjögren provides professional web design and development services. The specific services, deliverables, timeline, and pricing will be outlined in a separate project agreement or proposal.
+                                Pauline Mattsson provides professional web design and development services. The specific services, deliverables, timeline, and pricing will be outlined in a separate project agreement or proposal.
                             </p>
 
                             <h2 className="text-3xl font-bold mt-12 mb-6">2. Payment Terms</h2>
@@ -73,7 +73,7 @@ export default function TermsPage() {
                                 <strong>6.1 Ownership:</strong> Upon receipt of full payment, all custom work created specifically for your project will be transferred to you.
                             </p>
                             <p className="text-gray-700 mb-4">
-                                <strong>6.2 Portfolio Rights:</strong> Lucas Sjögren reserves the right to display completed projects in our portfolio and marketing materials unless otherwise agreed in writing.
+                                <strong>6.2 Portfolio Rights:</strong> Pauline Mattsson reserves the right to display completed projects in our portfolio and marketing materials unless otherwise agreed in writing.
                             </p>
                             <p className="text-gray-700 mb-6">
                                 <strong>6.3 Third-Party Assets:</strong> Any third-party assets (fonts, stock images, plugins) used in your project remain the property of their respective owners and may require separate licensing.
@@ -96,7 +96,7 @@ export default function TermsPage() {
 
                             <h2 className="text-3xl font-bold mt-12 mb-6">10. Limitation of Liability</h2>
                             <p className="text-gray-700 mb-6">
-                                Lucas Sjögren&apos;s liability is limited to the amount paid for the services. We are not liable for indirect, incidental, or consequential damages.
+                                Pauline Mattsson&apos;s liability is limited to the amount paid for the services. We are not liable for indirect, incidental, or consequential damages.
                             </p>
 
                             <h2 className="text-3xl font-bold mt-12 mb-6">11. Confidentiality</h2>
@@ -119,8 +119,8 @@ export default function TermsPage() {
                                 For questions about these Terms of Service, please contact us:
                             </p>
                             <div className="bg-slate-50 p-6 rounded-xl mt-4">
-                                <p className="text-gray-800 mb-2"><strong>Lucas Sjögren</strong></p>
-                                <p className="text-gray-700 mb-2">LucasSjogren.shop</p>
+                                <p className="text-gray-800 mb-2"><strong>Pauline Mattsson</strong></p>
+                                <p className="text-gray-700 mb-2">paulinemattsson.shop</p>
                                 <p className="text-gray-700 mb-2">Email: marouanndoumm12@outlook.com</p>
                                 <p className="text-gray-700 mb-2">Phone: +1 9129231747</p>
                                 <p className="text-gray-700">Address: 14 SECTEUR 01 KASBAB MEHDIA KENITRA 14020</p>

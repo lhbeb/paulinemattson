@@ -26,10 +26,11 @@ export default function Header() {
             <Link href="/" className="flex items-center space-x-3">
               <Image
                 src="/logo.png"
-                alt="Lucas Sjögren Logo"
+                alt="Pauline Mattsson Logo"
                 width={240}
                 height={70}
                 className="h-16 w-auto"
+                unoptimized
               />
             </Link>
 
